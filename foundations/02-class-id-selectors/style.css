@@ -4,14 +4,21 @@
     font-family: Verdana, 'DejaVu Sans', sans-serif;
 }
 
+.odd,
+.three
+{
+    font-size: 24px;
+}
+
 #second
 {
     color: #0000ff;
     font-size: 36px;
 }
 
-.odd,
-.three
+#fourth 
 {
+    background-color: #90ee90;
     font-size: 24px;
+    font-weight: bold;
 }
